@@ -1,6 +1,6 @@
 html, body{ height: 100%; min-height: 100%}
 body{height: 100%}
 *{ padding: 0 ;margin: o ; font-family: cursive; text-align: center; }
-#rain{ height: 100vh; display: table; vertical-align: middle;}
+#rain{ height: 100vh; display: table; vertical-align: middle; width: 100%}
 h2{ font-size: 30px;}
 p{ line-height: 2em;}
